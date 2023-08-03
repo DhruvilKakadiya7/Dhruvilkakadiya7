@@ -17,7 +17,7 @@
 
 ### :man_technologist: About Me :
 ---
-- I am Dhruvil Kakadiya, a 2nd year CSE student at nirma University.
+- I am Dhruvil Kakadiya, a 3rd year CSE student at nirma University.
 - I am a Competetive Programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 
