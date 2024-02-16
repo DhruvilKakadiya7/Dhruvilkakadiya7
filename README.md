@@ -29,9 +29,18 @@
   <img src = "https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" alt = "C++" width="40" height="40"/> &nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt = "C++" width="40" height="40"/> &nbsp;
   </div>
+  
+### :fire: Coding Profiles :
+<a href="https://codeforces.com/profile/queue">
+<img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=Psychotic_D&theme=github_dark&force_username=true&border_color=404040" alt="Queue Codeforces Stats"/>
+</a>
 
 ### :fire: My Stats :
 --- 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DhruvilKakadiya7&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvilKakadiya7&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/RedHeadphone">
+<img height="185" src="https://github-readme-stats-redheadphone.vercel.app/api/top-langs/?username=DhruvilKakadiya7&layout=compact&langs_count=8&theme=github_dark&hide=SCSS,GLSL,GAP&border_color=404040" alt="My Github Top Languages" />
+<img height="185" src="https://github-readme-stats-redheadphone.vercel.app/api?username=DhruvilKakadiya7&show_icons=true&count_private=true&theme=github_dark&border_color=404040" alt="RedHeadphone Github Stats" />
+</a>
+</span>
