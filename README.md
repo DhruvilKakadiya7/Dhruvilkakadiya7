@@ -31,7 +31,7 @@
   </div>
   
 ### :fire: Coding Profiles :
-<a href="https://codeforces.com/profile/queue">
+<a href="https://codeforces.com/profile/Psychotic_D">
 <img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=Psychotic_D&theme=github_dark&force_username=true&border_color=404040" alt="Queue Codeforces Stats"/>
 </a>
 
