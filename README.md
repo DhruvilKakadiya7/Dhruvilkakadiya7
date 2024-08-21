@@ -30,11 +30,12 @@
 <img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=Psychotic_D&theme=github_dark&force_username=true&border_color=404040" alt="Queue Codeforces Stats"/>
 </a>
 
+## Activity Graph: 
+ [![Activity graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DhruvilKakadiya7&theme=transparent)](https://github.com/DhruvilKakadiya7/)
+
 ## 📊 Github Stats
 
-<span>
-<a href="https://github.com/RedHeadphone">
-<img height="185" src="https://github-readme-stats-redheadphone.vercel.app/api/top-langs/?username=DhruvilKakadiya7&layout=compact&langs_count=6&theme=github_dark&hide=SCSS,GLSL,GAP&border_color=404040" alt="My Github Top Languages" />
-<img height="185" src="https://github-readme-stats-redheadphone.vercel.app/api?username=DhruvilKakadiya7&show_icons=true&count_private=true&theme=github_dark&border_color=404040" alt="RedHeadphone Github Stats" />
-</a>
-</span>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvilKakadiya7&show_icons=true&theme=transparent&layout=donut)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DhruvilKakadiya7&theme=transparent)
+ 
