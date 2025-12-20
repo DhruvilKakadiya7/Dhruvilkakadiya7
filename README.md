@@ -1,4 +1,4 @@
-<div id="header" align="center">
+03<div id="header" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100">
 </div>
 <div id="counter" align="center">
@@ -44,7 +44,7 @@
 </div>
 
 ## Activity Graph
-[![Activity graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DhruvilKakadiya7&theme=transparent)](https://github.com/DhruvilKakadiya7/)
+[![Activity graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dCodes03&theme=transparent)](https://github.com/dCodes03/)
 
 ## 📊 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvilKakadiya7&show_icons=true&theme=transparent&layout=donut)
