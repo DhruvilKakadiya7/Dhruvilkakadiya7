@@ -4,13 +4,11 @@
 <div id="counter" align="center">
   <img src="https://komarev.com/ghpvc/?username=DhruvilKakadiya7&style=flat-square&color=blue" alt=""/>
 </div>
-<h3 align="center">
-  Hello, I'm Dhruvil Kakadiya
-</h3>
+
 
 ### :man_technologist: About Me
 ---
-- SDE-I at Zomato, contributing to the Search and Homepage team. Check out my work GitHub: [DhruvilK7](https://github.com/DhruvilK7).
+- SDE-I at Zomato, contributing to the Search and Homepage team. 
 - Experienced in competitive programming and problem-setting for platforms like Codeforces, HackerRank and Coding Ninjas.
 - Co-authored two official Div. 1 contests on Codeforces.
 - Graduated with a B.Tech in Computer Science and Engineering from Nirma University.
